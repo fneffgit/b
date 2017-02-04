@@ -1,0 +1,73 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 720 (ID=0x1286)
+    Vendor:   NVIDIA
+    VRAM:     995 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.078 seconds
+Platform assembly: C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Fintan\Documents\Games\b\build_test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.304128 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1634 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.544885 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.185387 ms (FindLiveObjects: 0.021810 ms CreateObjectMapping: 0.013471 ms MarkObjects: 0.125088 ms  DeleteObjects: 0.008659 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.823660 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.703382 ms (FindLiveObjects: 0.052280 ms CreateObjectMapping: 0.035602 ms MarkObjects: 0.431395 ms  DeleteObjects: 0.183142 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.316249 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 0.163256 ms (FindLiveObjects: 0.021810 ms CreateObjectMapping: 0.010584 ms MarkObjects: 0.122201 ms  DeleteObjects: 0.008018 ms)
+
+Level saved.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level saved.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.440055 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.447111 ms (FindLiveObjects: 0.036243 ms CreateObjectMapping: 0.021810 ms MarkObjects: 0.263006 ms  DeleteObjects: 0.125088 ms)
+
+Level loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.273270 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 0.165181 ms (FindLiveObjects: 0.022772 ms CreateObjectMapping: 0.009622 ms MarkObjects: 0.123805 ms  DeleteObjects: 0.008659 ms)
+
